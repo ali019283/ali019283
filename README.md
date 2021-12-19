@@ -39,5 +39,6 @@ Hi, im a young developer who lives in turkey.
 
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/72763348?v=4" align="right" width="150px" />
+
 * ![Email](https://img.shields.io/badge/aliburakcetin@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
