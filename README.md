@@ -1,9 +1,6 @@
 # ali019283
 Hi, im a young developer who lives in turkey.
 
-This file is generated with [KaGRG](https://github.com/Camroku/kagrg)
-![Profile Views Count](https://camroku.xyz/gh.php?username=ali019283)
-
 ## Stats
 <div>
     <a href="https://github-readme-stats.vercel.app">
@@ -42,7 +39,5 @@ This file is generated with [KaGRG](https://github.com/Camroku/kagrg)
 
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/72763348?v=4" align="right" width="150px" />
-
-* ![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 * ![Email](https://img.shields.io/badge/aliburakcetin@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-* [Website]()
+
