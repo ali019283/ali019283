@@ -7,7 +7,7 @@
 - 💬 Ask me about anything anytime
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ali019283&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Çınar's+GitHub+Stats"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ali019283&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Burak's+GitHub+Stats"/>
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com">
       <img width="49%" alt="Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=ali019283&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=141321&stroke=616BBC00&sideLabels=d63a7b&currStreakLabel=BCBCBC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5F875F&ring=AF5F5F&fire=AF5F5F"/>
