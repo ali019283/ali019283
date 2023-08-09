@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate with anyone
 - 💬 Ask me about anything anytime
 
-![buraks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali019283&show_icons=true&theme=transparent)
+![buraks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali019283&show_icons=true&theme=transparent&hide_border=true)
 
 
